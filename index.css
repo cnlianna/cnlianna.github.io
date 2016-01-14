@@ -1,0 +1,65 @@
+html {
+	background: url(greenhillzone.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1 {
+	font-family: 'Cabin', sans-serif;
+	color: #66ccff;
+	font-size: 100px;
+	text-align: center;
+}
+
+div {
+	font-family: 'Chewy', cursive;;
+}
+
+.fixed-fast {
+	position: fixed;
+	top: 20px;
+	left: 20px;
+}
+
+.sith {
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+}
+
+.fasterest, .g2g, .hoge, .song, .fast, .faster, .fastest {
+	text-align: center;
+}
+
+.g2g {
+	font-weight: 800;
+	font-size: 50px;
+	color: #ff3300;
+}
+
+.hoge {
+	color: #6699ff;
+	font-size: 30px;
+}
+
+.song {
+	color: #cc3300;
+	font-size: 25px;
+	margin: 5px;
+}
+
+.fast {
+	font-size: 15px;
+}
+
+.faster {
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.fastest {
+	font-size: 25px;
+	font-weight: 800;
+}
