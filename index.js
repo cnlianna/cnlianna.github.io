@@ -7,6 +7,7 @@ $(document).ready(function() {
 		"https://s-media-cache-ak0.pinimg.com/736x/15/c7/55/15c755ed2af6707080efdc146e06767f.jpg",
 		"https://metrouk2.files.wordpress.com/2014/06/biddy6.jpg",
 		"http://scene7.targetimg1.com/is/image/Target/21406959?wid=480&hei=480",
+		"http://www.thefunnyblog.org/wp-content/uploads/2009/06/starwars-550x403.jpg",
 	];
 	$('.sith').on('click', function() {
 	 	$('h1, .g2g, .hoge').css({ "color" : "#cc0000" });
